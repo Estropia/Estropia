@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Estropia.
 - 👀 I’m interested in Games.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning SQL.
 - 💞️ I’m looking to collaborate on nothing as of now.
 - 📫 How to reach me estropia.kio@gmail.com
 
