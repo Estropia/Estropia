@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Estropia.
+- 👋 Hi, I’m @Mark Ferreras.
 - 👀 I’m interested in Games.
-- 🌱 I’m currently learning SQL.
-- 💞️ I’m looking to collaborate on nothing as of now.
-- 📫 How to reach me estropia.kio@gmail.com
+- 🌱 I’m currently doing CAPSTONE Project.
+- 💞️ I’m looking to collaborate on websites and projects.
+- 📫 How to reach me estropia.kio@gmail.com / marknielsenferreras@gmail.com
 
 <!---
 Estropia/Estropia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
